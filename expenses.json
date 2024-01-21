@@ -1,0 +1,22 @@
+[
+  {
+    "amount": 200.0,
+    "category": "fee",
+    "date": "2024-01-19 18:06:41"
+  },
+  {
+    "amount": 400.0,
+    "category": "green",
+    "date": "2024-01-19 18:07:01"
+  },
+  {
+    "amount": 60.0,
+    "category": "reel",
+    "date": "2024-01-19 18:07:09"
+  },
+  {
+    "amount": 33.0,
+    "category": "green",
+    "date": "2024-01-19 18:07:20"
+  }
+]
